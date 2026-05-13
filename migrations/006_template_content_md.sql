@@ -1,0 +1,1 @@
+ALTER TABLE templates ADD COLUMN IF NOT EXISTS content_md TEXT;
